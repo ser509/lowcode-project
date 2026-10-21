@@ -1,0 +1,17 @@
+Low code project
+Overview
+A simple Flask web application created as part of the Low-Code/No-Code course.
+The application displays a welcome message on the home page.
+Requirements
+Python 3
+Flask 3.1.2
+Installation
+Create and activate a virtual environment, then install the required packages:
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+Run the application with:
+python3 app.py
+open http://127.0.0.1:5000 in your browser
+AI assistance
+AI assistance was used to generateand document the initial Flask application. The code was reviewed and tested locally.
